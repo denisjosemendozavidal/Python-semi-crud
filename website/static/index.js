@@ -8,3 +8,8 @@ function deleteNote(noteId) {
       window.location.href = "/";
     });
   }
+
+
+  const base = document.getElementById("everything").value
+
+  document.getElementById("here").innerHTML = base
