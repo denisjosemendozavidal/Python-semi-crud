@@ -9,7 +9,4 @@ function deleteNote(noteId) {
     });
   }
 
-
-  const base = document.getElementById("everything").value
-
-  document.getElementById("here").innerHTML = base
+ 
